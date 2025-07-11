@@ -1,16 +1,10 @@
 main:
-  - name: "Catalog"
-    url: "/services/"
-    weight: 2
-  - name: "Open Calls"
-    url: "/open calls/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 2
 
 footer:
   - name: "Home"
