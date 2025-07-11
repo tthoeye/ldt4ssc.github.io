@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Local Digital Twins for Smart Communities
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The Local Digital Twins for Smart Communities project (LDT4SSC) supports European communities in developing, connecting and advancing Local Digital Twins for AI supported decision making
