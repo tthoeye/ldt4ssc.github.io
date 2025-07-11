@@ -3,7 +3,9 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h2 class="footer-title">{{site.title}}</h2>
+          <div class="footer-title">
+            <img src="{{ '/images/funded.png' | relative_url }}" alt="{{ site.title }}" class="footer-logo" />
+          </div>
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
@@ -12,6 +14,7 @@
             </li>
             {% endfor %}
           </ul>
+          
         </div>
       </div>
     </div>

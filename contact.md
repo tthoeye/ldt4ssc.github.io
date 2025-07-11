@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Project information
 layout: contact
-description: Contact
+description: Project information
 ---
 
-You can contact us at ldt4ssc@oascities.org
+LDT4SSC is a project funded by the Digital Europe Programme under grant number 101226211.
