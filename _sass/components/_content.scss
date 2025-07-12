@@ -71,9 +71,12 @@
     margin-bottom: 30px;
     th,
     td {
-      padding: 5px;
-      vertical-align: top;
-      border-top: 1px solid $white-offset;
+      padding: 0px 15px 0px 15px;
+      vertical-align: middle;
+      text-transform: lowercase;
+    }
+    td:first-letter, th:first-letter {
+      text-transform: capitalize;
     }
     thead th {
       vertical-align: bottom;
